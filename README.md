@@ -9,4 +9,4 @@ Hajira Zahid<br/>
 
 Project 2 (individual)<br/>
 Amritha(Team2)_Cohort_Analysis_and_Customer_Segmentation.ipynb<br/>
-In my project that I worked on individually, other than using the 4 pieces of code that were Diego's, I created the project individually. 
+In the project that I worked on, other than using the 4 pieces of code that were Diego's from draft 1, I created the project individually. 
